@@ -1,6 +1,4 @@
 # AL-BNN-GP
-Active Learning Performance Driven by Gaussian Processes and Bayesian Neural Networks 
-
 This code is referenced in the following research paper [Comparing Active Learning Performance Driven by Gaussian Processes or Bayesian Neural Networks for Constrained Trajectory Exploration]:
 
 *Active Learning BNN & GP Script: LBNN_GP_compare_activelearning.py*
