@@ -5,4 +5,4 @@ This code is referenced in the following research paper [Comparing Active Learni
 
 *Science-Blind BNN & GP Script: ILBNN_GP_compare_incremental.py*
 
-*Note: In order to run the above scripts, you must also have the 3 lunar crater (Shoemaker) .tif files* 
+*Note: In order to run the above scripts, you must also have the 3 lunar crater (Shoemaker) .tif files downloaded to your computer* 
